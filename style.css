@@ -1,7 +1,7 @@
 /* Estilos gerais */
 
 body {
-    font-family: Arial
+    font-family:
     , sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #8d07198a;
     color: #fff;
     padding: 10px 20px;
     display: flex;
@@ -53,7 +53,7 @@ section {
 }
 
 footer {
-    background-color: #333;
+    background-color: #610528;
     color: #fff;
     text-align: center;
     padding: 10px 0;
